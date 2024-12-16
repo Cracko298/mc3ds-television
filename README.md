@@ -5,6 +5,7 @@
 
 ## The Full Animation:
 ![zombies-720x720](https://github.com/user-attachments/assets/0279475a-7e95-42f4-950f-9d54e4ab6134)
+- Thanks to [Lou Bagel](https://www.loubagel.com/) for the Animation.
 
 ## Image Gallery:
 ![image](https://github.com/user-attachments/assets/15225440-2c57-4725-a510-293af4e3e95e)
